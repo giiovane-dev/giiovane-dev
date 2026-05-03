@@ -31,7 +31,7 @@ Meu objetivo é evoluir como desenvolvedor, ganhar experiência prática em proj
 ## 🚀 Atualmente estudando
 
 - HTML5
-- CSS
+- CSS3
 - JavaScript
 - React
 - Node.js
