@@ -31,13 +31,12 @@ Meu objetivo é evoluir como desenvolvedor, ganhar experiência prática em proj
 ## 🚀 Atualmente estudando
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - React
 - Node.js
 - Banco de Dados
 - Git e GitHub
-- Lógica de Programação
 - APIs REST
 - Desenvolvimento Full Stack
 
@@ -80,17 +79,8 @@ Estou em constante aprendizado, praticando todos os dias e construindo projetos 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contato
 
 - 📧 E-mail: giovanenunesads@gmail.com
 - 📍 Uruguaiana/RS - Brasil
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN/
+- 💼 LinkedIn: https://www.linkedin.com/in/giovane-nunes-b7a395252
