@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Giovane de Melo Nunes 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack em formação, focado em criar aplicações web modernas, funcionais e responsivas.
+  Desenvolvedor Full Stack, focado em criar aplicações web modernas, funcionais e responsivas.
 </p>
 
 <p align="center">
